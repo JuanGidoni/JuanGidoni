@@ -9,6 +9,7 @@
 ### I'm working at [@CoderHouse](https://coderhouse.com), living in Buenos Aires, Argentina.
 
 ### 🧑🏽‍💻 My projects: 
+- [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
 - [portfolio](https://github.com/JuanGidoni/Portfolio)
 - [mercadolibre-challenge](https://github.com/JuanGidoni/TestMeLi)
 - [rickandmorty-challenge](https://github.com/JuanGidoni/test-rym)
