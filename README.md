@@ -9,6 +9,7 @@
 ### I'm working at [@CoderHouse](https://coderhouse.com) and [@IntegraMediaSRL](https://integramedia.com.ar), living in Buenos Aires, Argentina.
 
 ### 🧑🏽‍💻 My projects: 
+- [ecommerce template](https://github.com/JuanGidoni/shopTemplate)
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
 - [portfolio](https://github.com/JuanGidoni/Portfolio)
 - [mercadolibre-challenge](https://github.com/JuanGidoni/TestMeLi)
@@ -35,7 +36,7 @@
 
 ### 📊 This week I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanGidoni)](https://www.linkedin.com/in/juangidoni/)
+[![JuanGidoni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanGidoni)](https://www.linkedin.com/in/juangidoni/)
 
 ### 📊 My github stats
 
