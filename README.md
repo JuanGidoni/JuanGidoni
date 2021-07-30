@@ -9,7 +9,7 @@
 ### I'm working at [@CoderHouse](https://coderhouse.com) and [@IntegraMediaSRL](https://integramedia.com.ar), living in Buenos Aires, Argentina.
 
 ### 🧑🏽‍💻 My projects: 
-- [ecommerce template](https://github.com/JuanGidoni/shopTemplate)
+- [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
 - [portfolio](https://github.com/JuanGidoni/Portfolio)
 - [mercadolibre-challenge](https://github.com/JuanGidoni/TestMeLi)
