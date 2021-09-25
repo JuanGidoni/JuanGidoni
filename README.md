@@ -6,7 +6,7 @@
 
 #### 😄 What motivates me the most is to keep learning new things, fix my own mistakes or those of others and keep moving forward.
 
-### I'm working at [@CoderHouse](https://coderhouse.com) and [@IntegraMediaSRL](https://integramedia.com.ar), living in Buenos Aires, Argentina.
+### I'm working at JBKnowledge as `React Developer`
 
 ### 🧑🏽‍💻 My projects: 
 - [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
