@@ -9,6 +9,7 @@
 ### I'm working at JBKnowledge as `React Developer`
 
 ### 🧑🏽‍💻 My projects: 
+- [Brastlewark Challenge](https://github.com/JuanGidoni/Brastlewark)
 - [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
 - [portfolio](https://github.com/JuanGidoni/Portfolio)
@@ -22,17 +23,14 @@
 - [web-challenge](https://github.com/JuanGidoni/test-maquetado)
 
 ### 🚀 Goals in 2021
-- ✅ Find a change to teach/help someone with React 
-- 📋 Release my portfolio [portfolio](https://github.com/JuanGidoni/Portfolio) 
-- 📋 Find more interesting developers/companies and work with them.
-- 📋 Write more in my [portfolio/blog](https://github.com/JuanGidoni/Portfolio)
-- 📋 Try to learn more languages like: `Go` and `Node`.
-- 📋 Improve my knowledge in `React, Typescript and Redux`
+- Be healthy and get a better place to live.
+- Release my portfolio [portfolio](https://github.com/JuanGidoni/Portfolio) 
+- Find more interesting developers/companies and work with them.
+- Improve my knowledge in `React, Typescript and Redux, Go, Node, English Level`
 
 ### 👀 If you want to contact with me for any job offer or collaborate with me:
 
 - Email me: juan.gidoni@gmail.com
-- Watch me: [twitch](https://twitch.tv/jukxz)
 
 ### 📊 This week I spent my time on
 
@@ -46,4 +44,3 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juangidoni&layout=compact)](https://www.linkedin.com/in/juangidoni/)
 
-#### * ✔️: Done 📋: In progress ❌: Canceled / Not started
