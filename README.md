@@ -2,13 +2,13 @@
 
 #### 📚 Multimedia Designer and Frontend Developer.
 
-#### ⚡ My favorite language is: ✨ ` React with Atomic'Design` ✨
+#### ⚡ My favorite language is: ✨ ` React` ✨ & project structure with `Atomic Design`
 
 #### 😄 What motivates me the most is to keep learning new things, fix my own mistakes or those of others and keep moving forward.
 
 ### I'm working at JBKnowledge as `React Developer`
 
-### 🧑🏽‍💻 My projects: 
+### 🧑🏽‍💻 My projects or challenges: 
 - [Brastlewark Challenge](https://github.com/JuanGidoni/Brastlewark)
 - [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
