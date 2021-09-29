@@ -9,7 +9,7 @@
 ### I'm working at JBKnowledge as `React Developer`
 
 ### 🧑🏽‍💻 My projects or challenges: 
-- [Brastlewark Challenge](https://github.com/JuanGidoni/Brastlewark)
+- [brastlewark-challenge](https://github.com/JuanGidoni/Brastlewark)
 - [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
 - [portfolio](https://github.com/JuanGidoni/Portfolio)
@@ -24,7 +24,7 @@
 
 ### 🚀 Goals in 2021
 - Be healthy and get a better place to live.
-- Release my portfolio [portfolio](https://github.com/JuanGidoni/Portfolio) 
+- Release [portfolio](https://github.com/JuanGidoni/Portfolio) 
 - Find more interesting developers/companies and work with them.
 - Improve my knowledge in `React, Typescript and Redux, Go, Node, English Level`
 
