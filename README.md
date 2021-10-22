@@ -32,10 +32,6 @@
 
 - Email me: juan.gidoni@gmail.com
 
-### 📊 This week I spent my time on
-
-[![JuanGidoni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanGidoni)](https://www.linkedin.com/in/juangidoni/)
-
 ### 📊 My github stats
 
  [![My stats](https://github-readme-stats.vercel.app/api?username=JuanGidoni&show_icons=true&theme=radical)](https://www.linkedin.com/in/juangidoni/)
