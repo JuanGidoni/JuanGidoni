@@ -1,12 +1,12 @@
 ## Hi 👋 I'm Juani 🦁
 
-#### 📚 Multimedia Designer and Frontend Developer.
+#### 📚 Multimedia Designer, Frontend Developer and Scrum Master.
 
 #### ⚡ My favorite language is: ✨ ` React` ✨ & project structure with `Atomic Design`
 
 #### 😄 What motivates me the most is to keep learning new things, fix my own mistakes or those of others and keep moving forward.
 
-### I'm working at JBKnowledge as `React Developer`
+### I'm working at Capgemini Engineering as `Software Developer`
 
 ### 🧑🏽‍💻 My projects or challenges: 
 - [brastlewark-challenge](https://github.com/JuanGidoni/Brastlewark)
@@ -22,11 +22,11 @@
 - [bellagamba-challenge](https://github.com/JuanGidoni/test-bellagamba)
 - [web-challenge](https://github.com/JuanGidoni/test-maquetado)
 
-### 🚀 Goals in 2021
+### 🚀 Goals in 2022
 - Be healthy and get a better place to live.
-- Release [portfolio](https://github.com/JuanGidoni/Portfolio) 
+- Learn more about blockchain, criptogames and smart contracts.
 - Find more interesting developers/companies and work with them.
-- Improve my knowledge in `React, Typescript and Redux, Go, Node, English Level`
+- Improve my knowledge in `React and everything about web 3.0`
 
 ### 👀 If you want to contact with me for any job offer or collaborate with me:
 
