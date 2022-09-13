@@ -1,12 +1,10 @@
 ## Hi 👋 I'm Juani 🦁
 
-#### 📚 Multimedia Designer, Frontend Developer and Scrum Master.
+#### 📚 Ssr Frontend Developer.
 
 #### ⚡ My favorite language is: ✨ ` React` ✨ & project structure with `Atomic Design`
 
-#### 😄 What motivates me the most is to keep learning new things, fix my own mistakes or those of others and keep moving forward.
-
-### I'm working at Capgemini Engineering as `Software Developer`
+#### 😄 What motivates me the most is to keep learning and move forward.
 
 ### 🧑🏽‍💻 My projects or challenges: 
 - [brastlewark-challenge](https://github.com/JuanGidoni/Brastlewark)
@@ -23,20 +21,12 @@
 - [web-challenge](https://github.com/JuanGidoni/test-maquetado)
 
 ### 🚀 Goals in 2022
-- Be healthy and get a better place to live.
-- Learn more about blockchain, criptogames and smart contracts.
-- Find more interesting developers/companies and work with them.
-- Improve my knowledge in `React and everything about web 3.0`
+- Finish Tensorflow course and get the certification from Google
+- Finish Product Owner course and get certified.
+- Improve knowledge with frontend technologies. 
+- Make firsts steps for my own non-profit brand about *earth care*
 
 ### 👀 If you want to contact with me for any job offer or collaborate with me:
 
 - Email me: juan.gidoni@gmail.com
-
-### 📊 My github stats
-
- [![My stats](https://github-readme-stats.vercel.app/api?username=JuanGidoni&show_icons=true&theme=radical)](https://www.linkedin.com/in/juangidoni/)
- 
-### 📊 Most used language (based on github repositories)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juangidoni&layout=compact)](https://www.linkedin.com/in/juangidoni/)
 
