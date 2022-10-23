@@ -1,24 +1,32 @@
-## Hi 👋 I'm Juani 🦁
+# Hi 👋 I'm Juani 🦁
+## 😄 What motivates me the most is to keep learning and move forward.
 
-#### 📚 Ssr Frontend Developer.
+### 📚 Current: Ssr Frontend Developer.
 
-#### ⚡ My favorite language is: ✨ ` React` ✨ & project structure with `Atomic Design`
+### ⚡ I love to code with ✨ ` React and Atomic Design` ✨ 
 
-#### 😄 What motivates me the most is to keep learning and move forward.
+### ⚛️ Why Atomic Design?
 
-### 🧑🏽‍💻 My projects or challenges: 
-- [brastlewark-challenge](https://github.com/JuanGidoni/Brastlewark)
-- [react-ecommerce](https://github.com/JuanGidoni/react-ecommerce)
+Atomic design is a `methodology composed of five distinct stages` working together to create `interface design systems in a more deliberate and hierarchical manner`. 
+
+The five stages of atomic design are:
+
+- Atoms
+- Molecules
+- Organisms
+- Templates
+- Pages
+
+Atomic design is `not a linear process`, but rather a mental model to help us think of our user interfaces as both a `cohesive whole and a collection of parts at the same time`. Each of the five stages plays a `key role` in the hierarchy of our interface design systems... [Read more](https://atomicdesign.bradfrost.com/chapter-2/)
+
+
+### 🧑🏽‍💻 My hardest challenges ever: 
 - [naranjax-urlscanner](https://github.com/JuanGidoni/naranjax-urlscanner)
-- [portfolio](https://github.com/JuanGidoni/Portfolio)
 - [mercadolibre-challenge](https://github.com/JuanGidoni/TestMeLi)
 - [rickandmorty-challenge](https://github.com/JuanGidoni/test-rym)
 - [weather-fullstack-app](https://github.com/JuanGidoni/weather-flow)
 - [sheltr-website](https://github.com/JuanGidoni/sheltr)
-- [today-react](https://github.com/JuanGidoni/today-react)
 - [whatsapp-cripto-alerts](https://github.com/JuanGidoni/WA-CriptoAlerts)
-- [bellagamba-challenge](https://github.com/JuanGidoni/test-bellagamba)
-- [web-challenge](https://github.com/JuanGidoni/test-maquetado)
 
 ### 🚀 Goals in 2022
 - Finish Tensorflow course and get the certification from Google
@@ -26,7 +34,5 @@
 - Improve knowledge with frontend technologies. 
 - Make firsts steps for my own non-profit brand about *earth care*
 
-### 👀 If you want to contact with me for any job offer or collaborate with me:
-
-- Email me: juan.gidoni@gmail.com
+### 👀 Keep learning, even if you think you can't.
 
