@@ -2,7 +2,7 @@
 ## 😄 What motivates me the most is to keep learning and move forward.
 
 ### 📚 Current: Ssr Frontend Developer. 
-### Days being a developer: `2`
+### Days being a developer: `3`
 
 ### ⚡ I love to code with ✨ ` React and Atomic Design` ✨ 
 
