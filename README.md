@@ -3,7 +3,7 @@
 
 ### 📚 Current: Ssr Frontend Developer. 
 
-### Days being a developer: `6`
+### Days being a developer: `7`
 
 ### ⚡ I love to code with ✨ ` React and Atomic Design` ✨ 
 
