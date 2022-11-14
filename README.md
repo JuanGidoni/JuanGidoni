@@ -1,7 +1,8 @@
 # Hi 👋 I'm Juani 🦁
 ## 😄 What motivates me the most is to keep learning and move forward.
 
-### 📚 Current: Ssr Frontend Developer.
+### 📚 Current: Ssr Frontend Developer. 
+### Days being a developer: `1`
 
 ### ⚡ I love to code with ✨ ` React and Atomic Design` ✨ 
 
