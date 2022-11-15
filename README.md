@@ -2,4 +2,4 @@
 
 > I&#39;m a Frontend Web Developer SSR
 
-### 📚 Minutes being a developer: 1839756
+### 📚 Minutes being a developer: 1839757
