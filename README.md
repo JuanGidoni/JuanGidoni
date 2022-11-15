@@ -2,4 +2,4 @@
 
 > I&#39;m a Frontend Web Developer SSR
 
-### 📚 Days being a developer: 399
+### 📚 Days being a developer: 400
