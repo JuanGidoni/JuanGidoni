@@ -2,7 +2,7 @@
 
 > I&#39;m a Frontend Web Developer SSR. 🍻
 
-### 📚 Days being a developer: 1291
+### 📚 Days being a developer: 1292
 
 ### ⚛️ You can find all my code archived [here](https:&#x2F;&#x2F;github.com&#x2F;JuanGidoni&#x2F;archive) (I will not update or maintain this repos).
 
