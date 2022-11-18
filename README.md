@@ -2,7 +2,7 @@
 
 > I&#39;m a Frontend Web Developer SSR. 🍻
 
-### 📚 Days being a developer: 1293
+### 📚 Days being a developer: 1294
 
 ### 🎓 What I learn and use daily?
 
