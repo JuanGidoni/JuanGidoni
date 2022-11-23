@@ -23,5 +23,5 @@
   
   > (I will not update or maintain this repos).
   
-  #### This README it&#39;s auto generated and commited daily by my own script 🚀😍
+  #### This README it&#39;s auto generated and commited daily with my own script 🚀😍
   
