@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my repositories list](https://github.com/JuanGidoni?tab=repositories)
 
-- 📝 I regularly write articles on [my personal blog/](uangidoni.github.io/justdoit/)
+- 📝 I regularly write articles on [my personal blog](uangidoni.github.io/justdoit)
 
 - 💬 Ask me about **react, typescript, css, etc... *FrontEnd***
 
