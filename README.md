@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juangidoni&label=Profile%20views&color=0e75b6&style=flat" alt="juangidoni" /> </p>
 
-> 🧙 I&#39;ve been a developer since 1337 days. <br>
+> 🧙 I&#39;ve been a developer since 1338 days. <br>
 > 🔭 I’m currently working on Capgemini **as Advanced Consultant Engineer**  <br>
 > 🌱 I’m currently learning **Meta Backend Developer, Meta Frontend Developer, Meta Android Developer and IBM DevOps &amp; Engineering**  <br>
 > 👨‍💻 All of my projects are available at [my repositories list](https:&#x2F;&#x2F;github.com&#x2F;JuanGidoni?tab&#x3D;repositories)  <br>
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/juanbekoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanbekoi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juangidoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juangidoni" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/51675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="51675" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/juangidoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juangidoni" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/juan_gidoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juangidoni" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juangidoni&show_icons=true&theme=dark&locale=en&layout=compact" alt="juangidoni" /></p>
