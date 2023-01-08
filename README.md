@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juangidoni&label=Profile%20views&color=0e75b6&style=flat" alt="juangidoni" /> </p>
 
-> 🧙 I&#39;ve been a developer since 1378 days. <br>
+> 🧙 I&#39;ve been a developer since 1379 days. <br>
 > 🔭 I’m currently working on Capgemini **as Advanced Consultant Engineer**  <br>
 > 🌱 I’m currently learning **Meta Backend Developer, Meta Frontend Developer, Meta Android Developer and IBM DevOps &amp; Engineering**  <br>
 > 👨‍💻 All of my projects are available at [my repositories list](https:&#x2F;&#x2F;github.com&#x2F;JuanGidoni?tab&#x3D;repositories)  <br>
