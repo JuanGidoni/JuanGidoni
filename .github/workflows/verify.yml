@@ -1,0 +1,27 @@
+name: Verify
+
+on:
+  push:
+    branches: [master, develop, feature/**, bugfix/**]
+  pull_request:
+    branches: [master, develop, feature/**, bugfix/**]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+
+      - name: Install dependencies
+        uses: bahmutov/npm-install@v1
+
+      - name: Build project
+        run: npm run build
