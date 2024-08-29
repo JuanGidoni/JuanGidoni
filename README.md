@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juangidoni&label=Profile%20views&color=0e75b6&style=flat" alt="juangidoni" /> </p>
 
-> 🧙 I&#39;ve been a developer since 1782 days. <br>
+> 🧙 I&#39;ve been a developer since 2003 days. <br>
 > 🔭 I’m currently working on Capgemini **as Advanced Consultant Engineer** (Ssr)  <br>
-> 🌱 I’m currently learning **IBM DevOps &amp; Engineering** Finished **Meta Frontend Developer** <br>
+> 🌱 I’m currently learning Generative AI and getting more experience about React and DevOps <br>
 > 👨‍💻 All of my projects are available at [my repositories list](https:&#x2F;&#x2F;github.com&#x2F;JuanGidoni?tab&#x3D;repositories)  <br>
 > 📝 I regularly write articles on [my personal blog](https:&#x2F;&#x2F;juangidoni.github.io&#x2F;justdoit)  <br>
 > 📄 Know about my experiences on my [linkedin profile](https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;JuanGidoni)  <br>
