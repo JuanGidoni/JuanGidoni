@@ -3,8 +3,8 @@
 <br>
 
 > [!NOTE]
-> 🧙 I&#39;ve been a developer since 2109 days. <br>
-> 🌱 I’m currently learning a lot from IA to Blockchain, Fullstack, etc... <br>
+> 🧙 I&#39;ve been a developer since 2134 days. <br>
+> 🌱 I'm working on my own website [juani.dev](https://juani.dev) with knowledge I get from my work experiences... <br>
 > 👨‍💻 All my repos [here](https:&#x2F;&#x2F;github.com&#x2F;JuanGidoni?tab&#x3D;repositories) <br>
 
 > [!IMPORTANT]
