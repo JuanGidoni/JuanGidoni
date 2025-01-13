@@ -3,7 +3,7 @@
 <br>
 
 > [!NOTE]
-> 🧙 I&#39;ve been a developer since 2175 days. <br>
+> 🧙 I&#39;ve been a developer since 2205 days. <br>
 > 👨‍💻 Visit [juani.dev](https://juani.dev) <br>
 
 > [!IMPORTANT]
