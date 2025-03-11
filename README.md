@@ -3,7 +3,7 @@
 <br>
 
 > [!NOTE]
-> 🧙 I&#39;ve been a developer since 2299 days. <br>
+> 🧙 I&#39;ve been a developer since 2300 days. <br>
 > 👨‍💻 Visit [juani.dev](https://juani.dev) <br>
 
 > [!IMPORTANT]
@@ -28,5 +28,5 @@
 > For business contact check my [LinkedIn](https://linkedin.com/in/juangidoni) <sub><sup>(daily check)</sup></sub> <br>
 > <p align="left"> <img src="https://komarev.com/ghpvc/?username=juangidoni&label=Profile%20views&color=0e75b6&style=flat" alt="juangidoni" /> </p>
 <br>
-<sub><sup>AutoCommits: 2299</sup></sub>
+<sub><sup>AutoCommits: 2300</sup></sub>
   
