@@ -9,7 +9,6 @@
 >
 > I care deeply about technical leadership and team development. Mentoring engineers, defining standards, and creating a collaborative environment are key parts of how I help teams build software that scales and lasts.
 >
-> Currently, I play a key role in improving and streamlining applications while taking on greater responsibilities in both development and business strategy. My work extends beyond coding—I actively mentor interns, track their progress, and contribute to talent selection to help build a strong team.
 > <p align="left">
 > <a href="https://linkedin.com/in/juangidoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juangidoni" height="30" width="40" /></a>
 > <a href="https://stackoverflow.com/users/51675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="51675" height="30" width="40" /></a>
