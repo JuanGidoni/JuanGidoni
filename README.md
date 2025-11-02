@@ -3,12 +3,13 @@
 <br>
 
 > [!NOTE]
-> 🧙 I’m Juan Ignacio, a software engineer with over 4 years of experience working on high-impact applications across different industries. I’m driven by continuous learning, adopting new technologies, and optimizing processes to create better, more efficient solutions.
+> 🧙 I’m a Frontend Tech Lead Engineer with more than five years of experience building scalable and high-performance applications using React. My work focuses on designing and leading modern frontend architectures such as Hexagonal, Domain-Driven, Clean Architecture and Feature-Sliced, ensuring codebases remain clear, maintainable and ready to grow.
+>
+> Over time, I’ve moved from developing single-page applications to leading the architecture and delivery of several digital banking products. I work closely with cross-functional teams to align technical direction with business goals, making sure that quality and consistency are present in every release.
+>
+> I care deeply about technical leadership and team development. Mentoring engineers, defining standards, and creating a collaborative environment are key parts of how I help teams build software that scales and lasts.
 >
 > Currently, I play a key role in improving and streamlining applications while taking on greater responsibilities in both development and business strategy. My work extends beyond coding—I actively mentor interns, track their progress, and contribute to talent selection to help build a strong team.
->
-> Beyond my technical expertise, I have a passion for teaching and sharing knowledge. Whether through mentorship, discussions, or community engagement, I strive to foster growth and collaboration. My goal is to evolve into a technical leader who drives innovation and empowers others.
->
 > <p align="left">
 > <a href="https://linkedin.com/in/juangidoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juangidoni" height="30" width="40" /></a>
 > <a href="https://stackoverflow.com/users/51675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="51675" height="30" width="40" /></a>
